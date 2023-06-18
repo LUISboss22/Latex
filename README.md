@@ -49,3 +49,9 @@ Vertical line in matrix using LaTeXiT [duplicate]
 by Stack Overflow
 
 https://tex.stackexchange.com/questions/33519/vertical-line-in-matrix-using-latexit
+
+How do I add an empty line after \begin{enumerate}?
+
+By 
+
+https://www.reddit.com/r/LaTeX/comments/pmk0wg/how_do_i_add_an_empty_line_after_beginenumerate/
